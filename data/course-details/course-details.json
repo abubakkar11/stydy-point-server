@@ -14,12 +14,12 @@
       "body" : "The HyperText Markup Language or HTML is the standard markup language for documents designed to be displayed in a web browser. It can be assisted by technologies such as Cascading Style Sheets and scripting languages such as JavaScript."
     },
         {
-      "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+      "_id": "0282e0e58a5c404fbd15261f11c2ab6b",
       "others_info": {
         "is_todays_pick": false,
         "is_trending": true
       },
-      "category_id": "01",
+      "category_id": "02",
       "rating": { "number": 4.5, "badge": "Excellent" },
       "total_view": 488,
       "price" : 200 ,
@@ -28,12 +28,12 @@
       "body" : "Cascading Style Sheets is a style sheet language used for describing the presentation of a document written in a markup language such as HTML or XML. CSS is a cornerstone technology of the World Wide Web, alongside HTML and JavaScript."
     },
         {
-      "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+      "_id": "0282e0e58a5c404fbd15261f11c2ab6c",
       "others_info": {
         "is_todays_pick": false,
         "is_trending": true
       },
-      "category_id": "01",
+      "category_id": "03",
       "rating": { "number": 4.5, "badge": "Excellent" },
       "total_view": 488,
       "price" : 250 ,
@@ -42,12 +42,12 @@
       "body" : "JavaScript, often abbreviated as JS, is a programming language that is one of the core technologies of the World Wide Web, alongside HTML and CSS. As of 2022, 98% of websites use JavaScript on the client side for webpage behavior, often incorporating third-party libraries."
     },
         {
-      "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+      "_id": "0282e0e58a5c404fbd15261f11c2ab6d",
       "others_info": {
         "is_todays_pick": false,
         "is_trending": true
       },
-      "category_id": "01",
+      "category_id": "04",
       "rating": { "number": 4.5, "badge": "Excellent" },
       "total_view": 488,
       "price" : 300 ,
@@ -56,12 +56,12 @@
       "body" : "React is a free and open-source front-end JavaScript library for building user interfaces based on UI components. It is maintained by Meta and a community of individual developers and companies."
     },
         {
-      "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+      "_id": "0282e0e58a5c404fbd15261f11c2ab6e",
       "others_info": {
         "is_todays_pick": false,
         "is_trending": true
       },
-      "category_id": "01",
+      "category_id": "05",
       "rating": { "number": 4.5, "badge": "Excellent" },
       "total_view": 488,
       "price" : 350 ,
@@ -70,12 +70,12 @@
       "body" : "Python is a high-level, general-purpose programming language. Its design philosophy emphasizes code readability with the use of significant indentation. Python is dynamically-typed and garbage-collected. It supports multiple programming paradigms, including structured, object-oriented and functional programming."
     },
         {
-      "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+      "_id": "0282e0e58a5c404fbd15261f11c2ab6f",
       "others_info": {
         "is_todays_pick": false,
         "is_trending": true
       },
-      "category_id": "01",
+      "category_id": "06",
       "rating": { "number": 4.5, "badge": "Excellent" },
       "total_view": 488,
       "price" : 400 ,
@@ -84,12 +84,12 @@
       "body" : "PHP is a general-purpose scripting language geared toward web development. It was originally created by Danish-Canadian programmer Rasmus Lerdorf in 1993. The PHP reference implementation is now produced by The PHP Group. "
     },
         {
-      "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+      "_id": "0282e0e58a5c404fbd15261f11c2ab6g",
       "others_info": {
         "is_todays_pick": false,
         "is_trending": true
       },
-      "category_id": "01",
+      "category_id": "07",
       "rating": { "number": 4.5, "badge": "Excellent" },
       "total_view": 488,
       "price" : 400 ,
